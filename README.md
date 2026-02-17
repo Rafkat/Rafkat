@@ -1,8 +1,8 @@
 ## Hi there 👋, I am Rafkat Galeev
 
 # 💫 About Me:
-- 🔭 I'am currently working on Semantic Segmentation models
-- 🌱 My recent project include deeper investigation of Classification models
+- 🔭 I'am currently working on Multimodal LLMs
+- 🌱 My recent project include deeper investigation of Detection and Segmentation models
 - 🤔 Highly interested in Physics and Artifical Intelligence, and how to merge them
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafkat-galeev-02423768/) 
 
